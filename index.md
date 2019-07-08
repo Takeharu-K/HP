@@ -1,5 +1,4 @@
 # Profile
-<div style="width:250px; margin:0 auto;">
 <img src="img/profile/takeharu.jpg" width="250">
 
 [<img src="img/profile/twitter.png" width="30">](https://twitter.com/TakeItHaru)
@@ -7,7 +6,7 @@
 [<img src="img/profile/github.png" width="30">](https://github.com/Takeharu-K)
 [<img src="img/profile/md.png" width="30">](https://medium.com/@takeharu.kondo)
 [<img src="img/profile/qiita.png" width="30">](https://qiita.com/tktktktk)
-</div>
+
 # Products
 ## HashLab
 [https://hashlab-144c9.firebaseapp.com/](https://hashlab-144c9.firebaseapp.com/)
