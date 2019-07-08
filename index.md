@@ -49,7 +49,7 @@ I hold the Ethereum application development course in Nagoya.
 
 If you want to apply this course, click under button.
 
-<button type='button' src='https://forms.gle/CBL5UPQg966p4XrL8'>Apply</button>
+<button type="button" onclick="location.href='https://forms.gle/ZuQ1ksFMuLKy76FT8'">Apply</button>
 
 # Job
 ## Acompany Co., Ltd.
