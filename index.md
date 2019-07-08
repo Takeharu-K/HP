@@ -47,9 +47,9 @@ I hold the Ethereum application development course in Nagoya.
 
 <img src="img/community/ba.png" width="500">
 
-If you want to submit, click under button.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxiNbOkYi9QyEyDDbsRXqiGZkWNdV7Gj_LjrAGElHh5jnylw/viewform?embedded=true" width="640" height="1398" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+If you want to apply this course, click under button.
 
+<button type='button' src='https://forms.gle/CBL5UPQg966p4XrL8'>Apply</button>
 
 # Job
 ## Acompany Co., Ltd.
