@@ -38,7 +38,7 @@ I regularly host blockchain study sessions in Nagoya.
 <img src="img/community/bn.png" width="500">
 
 
-## ブロックチェーンアプリ開発短期集中講座(Dapps development course)
+## ブロックチェーンアプリ開発セミナー(Dapps development course)
 
 [https://docs.google.com/presentation/d/1lHr7c4MSblhqLWWdpHYYILlVn5CcN-QmG4JCak1mYYA/edit?usp=sharing](https://docs.google.com/presentation/d/1lHr7c4MSblhqLWWdpHYYILlVn5CcN-QmG4JCak1mYYA/edit?usp=sharing)
 
