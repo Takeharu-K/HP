@@ -1,7 +1,7 @@
 # Profile
 <img src="img/profile/takeharu.jpg" width="250">
 
-[<img src="img/profile/twitter.png" width="30">](https://twitter.com/TakeItHaru)
+[<img src="img/profile/tw.png" width="30">](https://twitter.com/TakeItHaru)
 [<img src="img/profile/fb.png" width="30">](https://www.facebook.com/TakeItHaru)
 [<img src="img/profile/github.png" width="30">](https://github.com/Takeharu-K)
 [<img src="img/profile/md.png" width="30">](https://medium.com/@takeharu.kondo)
