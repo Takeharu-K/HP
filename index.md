@@ -38,13 +38,13 @@ I regularly host blockchain study sessions in Nagoya.
 <img src="img/community/bn.png" width="500">
 
 
-## ブロックチェーンアプリ開発講座(Dapps development course)
+## ブロックチェーンアプリ開発集中講座(Dapps development course)
 
-[https://docs.google.com/presentation/d/1lHr7c4MSblhqLWWdpHYYILlVn5CcN-QmG4JCak1mYYA/edit?usp=sharing](https://docs.google.com/presentation/d/1lHr7c4MSblhqLWWdpHYYILlVn5CcN-QmG4JCak1mYYA/edit?usp=sharing)
+[https://acompany.tech/blockchainLecture/index.html](https://acompany.tech/blockchainLecture/index.html)
 
 I hold the Ethereum application development course in Nagoya.
 
-<img src="img/community/ba.png" width="500">
+<img src="img/community/LP.png" width="500">
 
 If you want to apply this course, click under button.
 
